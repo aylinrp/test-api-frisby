@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "frisby": "^2.1.2",
+    "jest": "^24.9.0",
+    "jest-html-reporter": "^2.6.0"
+  }
+}
